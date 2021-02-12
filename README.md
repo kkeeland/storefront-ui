@@ -15,7 +15,7 @@ Customization-first, performance-oriented and elegant UI framework for eCommerce
 
 ![](https://i.ibb.co/7ScVptN/123.png)
 
-# What makes it unique?
+# What makes it unique ?
 
 Some libraries aim to give as much as they can out of the box but they fail when it comes to customization and performance. Our goal was to enable as much as possible out of the box but with primary focus on ability to customize any aspect of the components.
 
